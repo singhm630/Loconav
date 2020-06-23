@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <array name="cities">
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Chennai</item>
+        <item>Bangalore</item>
+        <item>Chandigarh</item>
+    </array>
+    <string name="app_name">Loconav</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="phone">Phone Number</string>
+    <string name="otp">Enter OTP</string>
+    <string name="create_account">Create account</string>
+    <string name="full_name">Enter full Name</string>
+    <string name="example_rajkumar">Example: Rajkumar Rao</string>
+    <string name="enter_age">Enter age</string>
+    <string name="example_22">Example: 22</string>
+    <string name="choose_picture">Choose aadhar card picture</string>
+    <string name="select_file">Select file</string>
+    <string name="test_upload">Upload Picture</string>
+    <string name="enter_city">Enter preferred city</string>
+    <string name="job_preference">Enter job preference</string>
+    <string name="example_job">Example: Carpenter</string>
+    <string name="enter_salary">Enter expected salary</string>
+    <string name="example_salary">Example: Rs 10000</string>
+    <string name="press_submit">Press Submit to store entries</string>
+    <string name="submit">Submit</string>
+    <string name="offer_job">CAN OFFER A JOB? PRESS HERE</string>
+    <string name="need_job">NEED A JOB? PRESS HERE</string>
+    <string name="change_language">Change Language/भाषा बदलो</string>
+
+</resources>

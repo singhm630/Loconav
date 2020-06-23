@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1009405520904",
+    "firebase_url": "https://loconav-24537.firebaseio.com",
+    "project_id": "loconav-24537",
+    "storage_bucket": "loconav-24537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009405520904:android:022c9a6172a9cd687075bd",
+        "android_client_info": {
+          "package_name": "com.example.android.loconav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009405520904-7dajic0g05vkdhfkgbc2jqtsjclvrqoi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo50A8nFxSCmOSsjxwA75-QJfmdofkHXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009405520904-7dajic0g05vkdhfkgbc2jqtsjclvrqoi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="cities">
+        <item>दिल्ली</item>
+        <item>मुंबई</item>
+        <item>चेन्नई</item>
+        <item>बैंगलोर</item>
+        <item>चंडीगढ़</item>
+    </array>
+    <string name="app_name">Loconav</string>
+    <string name="send_otp">OTP भेजें</string>
+    <string name="phone">फ़ोन नंबर</string>
+    <string name="otp">OTP दर्ज करें</string>
+    <string name="create_account">खाता बनाएं</string>
+    <string name="full_name">पूरा नाम दर्ज करें</string>
+    <string name="example_rajkumar">उदाहरण: राजकुमार राव</string>
+    <string name="enter_age">उम्र दर्ज करें</string>
+    <string name="example_22">उदाहरण: २२</string>
+    <string name="choose_picture">आधार कार्ड तस्वीर चुनें</string>
+    <string name="select_file">फ़ाइल का चयन करें</string>
+    <string name="test_upload">तसवीर डालें</string>
+    <string name="enter_city">पसंदीदा शहर दर्ज करें</string>
+    <string name="job_preference">नौकरी वरीयता दर्ज करें</string>
+    <string name="example_job">उदाहरण: बढ़ई</string>
+    <string name="enter_salary">अपेक्षित वेतन दर्ज करें</string>
+    <string name="example_salary">उदाहरण: 10000 रु</string>
+    <string name="press_submit">प्रविष्टियां संग्रहीत करने के लिए सबमिट दबाएं</string>
+    <string name="submit">सबमिट</string>
+    <string name="offer_job">एक नौकरी प्रदान कर सकते हैं? यहां दबाएं</string>
+    <string name="need_job">नौकरी की जरूरत है? यहां दबाएं</string>
+    <string name="change_language">भाषा बदलो</string>
+
+</resources>
